@@ -13,7 +13,7 @@ Clique em **Fork** no canto superior direito do GitHub.
 ### 2. Clone o seu fork localmente
 
 ```bash
-git clone https://github.com/SEU-USUARIO/maddie-assets.git
+git clone https://github.com/maddbot-xyz/maddie-assets.git
 cd maddie-assets
 ```
 
