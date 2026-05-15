@@ -13,7 +13,7 @@
     "category": {
       "type": "string",
       "description": "Identificador da categoria das perguntas.",
-      "enum": ["discord", "maddie", "minecraft", "roblox", "among-us", "desenho"]
+      "enum": ["discord", "maddie", "minecraft", "roblox", "among-us", "desenho", "standoff2"]
     },
     "version": {
       "type": "string",
