@@ -1,0 +1,259 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "standoff",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "standoff-001",
+      "question": "Qual o nome da moeda premium usada para comprar itens no mercado do jogo?",
+      "responses": ["gold", "ouro"],
+      "tip": "Moeda dourada que você consegue comprando ou vendendo itens."
+    },
+    {
+      "id": "standoff-002",
+      "question": "Qual a empresa responsável pelo desenvolvimento do Standoff 2?",
+      "responses": ["axlebolt"],
+      "tip": "Uma empresa russa. Começa com 'A' e termina com 'Bolt'."
+    },
+    {
+      "id": "standoff-003",
+      "question": "Qual o modo de jogo principal onde o objetivo é plantar ou desarmar a bomba?",
+      "responses": ["defuse", "desarme"],
+      "tip": "O modo competitivo clássico de FPS tático."
+    },
+    {
+      "id": "standoff-004",
+      "question": "Qual o nome da faca curva que é uma das mais desejadas do jogo?",
+      "responses": ["karambit"],
+      "tip": "Inspirada em uma garra de tigre. Começa com 'K'."
+    },
+    {
+      "id": "standoff-005",
+      "question": "O que você ganha ao final das partidas que serve para comprar caixas comuns?",
+      "responses": ["silver", "prata"],
+      "tip": "A moeda cinza dada gratuitamente conforme seu desempenho."
+    },
+    {
+      "id": "standoff-006",
+      "question": "Qual o nome do mapa mais icônico que se passa em uma vila no deserto?",
+      "responses": ["sandstone"],
+      "tip": "Tradução literal seria 'Pedra de Areia'."
+    },
+    {
+      "id": "standoff-007",
+      "question": "Como se chama a patente mais alta que um jogador pode alcançar no modo competitivo?",
+      "responses": ["the legend", "lenda"],
+      "tip": "Apenas os melhores chegam nesse nível. Significa 'A Lenda'."
+    },
+    {
+      "id": "standoff-008",
+      "question": "Qual a arma de assalto equivalente à AK-47 usada pelos Terroristas no jogo?",
+      "responses": ["akr"],
+      "tip": "A arma mais forte para headshots, mas tem muito recuo."
+    },
+    {
+      "id": "standoff-009",
+      "question": "Qual o nome do item cosmético que você cola nas armas para personalizá-las?",
+      "responses": ["sticker", "stickers", "adesivo", "adesivos"],
+      "tip": "Podem ser colados em até 4 lugares diferentes da arma."
+    },
+    {
+      "id": "standoff-010",
+      "question": "Qual o nome do recurso onde jogadores compram e vendem skins entre si?",
+      "responses": ["market", "marketplace", "mercado"],
+      "tip": "O lugar onde a economia do jogo acontece."
+    },
+    {
+      "id": "standoff-011",
+      "question": "Qual o rifle de precisão que causa morte instantânea com um tiro no tronco?",
+      "responses": ["awm"],
+      "tip": "A sniper mais famosa e poderosa do jogo."
+    },
+    {
+      "id": "standoff-012",
+      "question": "Qual o nome do sistema de progresso sazonal com recompensas exclusivas?",
+      "responses": ["battle pass", "passe de batalha"],
+      "tip": "Contém níveis que liberam skins, adesivos e caixas."
+    },
+    {
+      "id": "standoff-013",
+      "question": "Qual a categoria de raridade representada pela cor vermelha?",
+      "responses": ["arcane", "arcano"],
+      "tip": "A raridade mais alta para skins de armas e facas."
+    },
+    {
+      "id": "standoff-014",
+      "question": "Qual o nome do pequeno acessório pendurado na lateral da arma?",
+      "responses": ["charm", "charms", "chaveiro", "chaveiros"],
+      "tip": "Item estético que balança conforme o movimento do jogador."
+    },
+    {
+      "id": "standoff-015",
+      "question": "Qual o mapa inspirado na cultura japonesa e flores de cerejeira?",
+      "responses": ["sakura"],
+      "tip": "Nome de uma flor muito famosa no Japão."
+    },
+    {
+      "id": "standoff-016",
+      "question": "Qual o nome da granada que cega temporariamente os adversários?",
+      "responses": ["flashbang", "flash", "granada de luz"],
+      "tip": "Equipamento tático usado para cegar oponentes."
+    },
+    {
+      "id": "standoff-017",
+      "question": "Qual o nome da organização antiterrorista do jogo?",
+      "responses": ["ct", "contra-terroristas", "contra terroristas"],
+      "tip": "Equipe responsável por impedir a detonação da bomba."
+    },
+    {
+      "id": "standoff-018",
+      "question": "Qual o nome da faca que representa a baioneta no jogo e possui uma serra no dorso?",
+      "responses": ["m9 bayonet", "m9"],
+      "tip": "Uma das facas militares mais clássicas do jogo."
+    },
+    {
+      "id": "standoff-019",
+      "question": "Qual o nível de raridade representado pela cor rosa?",
+      "responses": ["legendary", "lendaria", "lendária"],
+      "tip": "Fica logo abaixo da raridade Arcana."
+    },
+    {
+      "id": "standoff-020",
+      "question": "Qual a pistola silenciada utilizada pela equipe CT no início da partida?",
+      "responses": ["usp", "usp-s"],
+      "tip": "Pistola silenciada muito precisa para tiros na cabeça."
+    },
+    {
+      "id": "standoff-021",
+      "question": "Qual a pistola padrão da equipe Terrorista?",
+      "responses": ["g22"],
+      "tip": "Pistola com boa cadência para o primeiro round."
+    },
+    {
+      "id": "standoff-022",
+      "question": "Qual granada cria uma barreira visual de fumaça?",
+      "responses": ["smoke", "granada de fumaça", "fumaça"],
+      "tip": "Essencial para bloquear a visão de snipers."
+    },
+    {
+      "id": "standoff-023",
+      "question": "Qual o fuzil de assalto principal da equipe CT?",
+      "responses": ["m4"],
+      "tip": "Rifle estável e versátil para defesa."
+    },
+    {
+      "id": "standoff-024",
+      "question": "Qual o nome do mapa ambientado em uma zona industrial com trilhos de trem?",
+      "responses": ["rust"],
+      "tip": "Tradução literal é 'Ferrugem'."
+    },
+    {
+      "id": "standoff-025",
+      "question": "O que o jogador deve comprar para reduzir o tempo de desarme da bomba?",
+      "responses": ["defuse kit", "kit de desarme", "kit"],
+      "tip": "Reduz o tempo necessário para desativar o explosivo."
+    },
+    {
+      "id": "standoff-026",
+      "question": "Qual a submetralhadora conhecida por sua enorme capacidade de munição?",
+      "responses": ["p90"],
+      "tip": "Possui 50 balas no pente."
+    },
+    {
+      "id": "standoff-027",
+      "question": "Qual o nome da raridade representada pela cor roxa?",
+      "responses": ["epic", "epico", "épico"],
+      "tip": "Skins de nível intermediário, acima das raras."
+    },
+    {
+      "id": "standoff-028",
+      "question": "Qual o nome do modo competitivo jogado em duplas (2v2)?",
+      "responses": ["allies", "aliados"],
+      "tip": "Modo competitivo em mapas reduzidos."
+    },
+    {
+      "id": "standoff-029",
+      "question": "Qual a pistola com maior poder de parada e dano do jogo?",
+      "responses": ["desert eagle", "deagle"],
+      "tip": "Conhecida como 'Canhão de Mão'."
+    },
+    {
+      "id": "standoff-030",
+      "question": "Qual mapa se passa em uma área inspirada em uma província europeia?",
+      "responses": ["province"],
+      "tip": "Possui arquitetura urbana com praças."
+    },
+    {
+      "id": "standoff-031",
+      "question": "Qual o nome da faca que realiza manobras ao ser aberta?",
+      "responses": ["butterfly", "borboleta"],
+      "tip": "Famosa pelas animações complexas de manuseio."
+    },
+    {
+      "id": "standoff-032",
+      "question": "Qual dispositivo causa dano contínuo em uma área através do fogo?",
+      "responses": ["molotov", "incendiaria", "incendiária"],
+      "tip": "Explode em chamas ao atingir o solo."
+    },
+    {
+      "id": "standoff-033",
+      "question": "Como se chama a tecnologia que rastreia o número de baixas em uma skin?",
+      "responses": ["stattrack"],
+      "tip": "Exibe um contador numérico na lateral da arma."
+    },
+    {
+      "id": "standoff-034",
+      "question": "Como se chama o modo onde você evolui de arma a cada eliminação?",
+      "responses": ["arms race", "corrida armada"],
+      "tip": "O objetivo é chegar na última arma (faca)."
+    },
+    {
+      "id": "standoff-035",
+      "question": "Qual o sistema que protege o jogo contra usuários que utilizam trapaças?",
+      "responses": ["anticheat"],
+      "tip": "Sistema de segurança contra hackers."
+    },
+    {
+      "id": "standoff-036",
+      "question": "Qual o nome do mapa de treinamento em ambiente externo?",
+      "responses": ["training outside"],
+      "tip": "Mapa aberto com containers e alvos."
+    },
+    {
+      "id": "standoff-037",
+      "question": "Como se chama o ato de entregar uma arma para um companheiro de equipe?",
+      "responses": ["drop", "dropar"],
+      "tip": "Comprar para um aliado que está sem dinheiro."
+    },
+    {
+      "id": "standoff-038",
+      "question": "Qual a cor que representa a patente 'Elite Silver'?",
+      "responses": ["prata", "cinza"],
+      "tip": "Nível inicial de habilidade no modo competitivo."
+    },
+    {
+      "id": "standoff-039",
+      "question": "Como se chama a associação de jogadores sob uma mesma sigla?",
+      "responses": ["clan", "cla", "clã"],
+      "tip": "Grupos organizados com brasão próprio."
+    },
+    {
+      "id": "standoff-040",
+      "question": "Como se chama o modo mata-mata sem objetivos de bomba?",
+      "responses": ["team deathmatch", "tdm"],
+      "tip": "Foco total no número de eliminações por equipe."
+    },
+    {
+      "id": "standoff-041",
+      "question": "Como é chamado o local onde os jogadores surgem no início do round?",
+      "responses": ["spawn", "base"],
+      "tip": "Ponto de partida seguro."
+    },
+    {
+      "id": "standoff-042",
+      "question": "Qual o nome do mapa que simula uma base de alta segurança?",
+      "responses": ["zone 9", "zona 9"],
+      "tip": "Cenário industrial moderno com laboratórios."
+    }
+  ]
+}
